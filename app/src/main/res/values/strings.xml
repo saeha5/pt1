@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomViewEx</string>
+    <string name="view_title1">CustomView1</string>
+    <string name="view_title2">CustomView2</string>
+    <string name="view_title3">CustomView3</string>
+    <string name="hint_text">TYPE HERE</string>
+</resources>
